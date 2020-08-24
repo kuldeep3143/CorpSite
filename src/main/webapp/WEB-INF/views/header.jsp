@@ -58,9 +58,6 @@
                                          <li>
                                             <a href="#">Netherlands</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Belgium</a>
-                                        </li>
                                     </ul>
                                 </li>
                             </ul>
